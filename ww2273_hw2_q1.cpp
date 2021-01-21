@@ -14,7 +14,7 @@ int main()
 	cin >> dimes_count;
 	cout << "# of Nickels:" << endl;
 	cin >> nickels_count;
-	cout << "#of pennies" << endl;
+	cout << "# of Pennies" << endl;
 	cin >> pennies_count;
 
 
